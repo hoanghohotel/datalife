@@ -22,7 +22,7 @@ const DomainForm: React.FC = () => {
 
     return (
         <div className="container mt-5">
-            <h1 className="mb-4">Domain</h1>
+            <h1 className="mb-4">CMS DataLife Engine License by ꧁༺LinhCute༻꧂➻❥</h1>
             <form onSubmit={handleSubmit} className="form-horizontal">
                 <div className="mb-3">
                     <label htmlFor="domain" className="form-label">Domain:</label>
