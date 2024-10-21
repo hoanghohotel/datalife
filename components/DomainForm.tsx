@@ -46,7 +46,7 @@ const DomainForm: React.FC = () => {
                         onChange={(e) => setVersion(e.target.value)}
                         required
                     >    <option value="">---- Version ----</option>
-                        <option value="5409">DataLife Engine v.17.2</option>
+                        <option value="5409">DataLife Engine v.17.3</option>
                         <option value="1406">DataLife Engine v.17.2</option>
                         <option value="2402">DataLife Engine v.17.1</option>
                         <option value="2317">DataLife Engine v.17.0</option>
